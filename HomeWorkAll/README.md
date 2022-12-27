@@ -1,2 +1,1 @@
-"# HomeWork7" 
-"# HomeWork7" 
+"# HomeWork7"
